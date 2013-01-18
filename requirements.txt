@@ -1,0 +1,5 @@
+# django base
+django
+psycopg2
+dj-database-url
+
